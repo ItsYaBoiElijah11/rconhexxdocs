@@ -4,10 +4,8 @@
 
 Well its pretty easy to get started using Rcon Hexx in any server. first what you need to do is get familiar with the bot so take a few minuets to read the help menu! 
 
-```
-Default Prefix: hexx
-
-How to change it do echo 'hexxprefix <anything>'
+```markup
+<h2>Default Prefix: <strong>hexx</strong></h2>
 ```
 
 {% hint style="info" %}
