@@ -4,5 +4,5 @@
 
 ## Getting Started
 
-* [Untitled](getting-started/untitled.md)
+* [How to set a prefix](getting-started/how-to-set-a-prefix.md)
 
