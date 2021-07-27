@@ -8,3 +8,7 @@
 * [How to use the ticket system](getting-started/how-to-use-the-ticket-system.md)
 * [How to use the ranking system](getting-started/how-to-use-the-ranking-system.md)
 
+## Frequently \| Asked \| Questions
+
+* [Why is hexx premium so cheap](frequently-or-asked-or-questions/why-is-hexx-premium-so-cheap.md)
+
