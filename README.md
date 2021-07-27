@@ -1,37 +1,21 @@
-# Welcome
-
-## ❤️ Rcon Hexx Documentation ❤️
-
+# ❤️ Rcon Hexx Documentation ❤️
 
 
 ## ⚙ About Rcon Hexx
 
-🕑Launched 04/30/2021🕑
+🕑Launched 04/30/2021🕑 
 
+🧪 created by Hexx Laboratories 🧪 
 
+📩 Bot Features 📩 
 
- \|   🧪 created by Hexx Laboratories 🧪
+💎Hexx Premium💎 
 
+🔊Music System🔊 
 
+❌Antilink System❌ 
 
- \|   📩 Bot Features 📩
-
-
-
- \|   💎Hexx Premium💎 
-
-
-
- \|   🔊Music System🔊
-
-
-
- \|   ❌Antilink System❌
-
-
-
- \|   🎟Ticket System🎟
-
+🎟Ticket System🎟 
 
 
 ## 🔗 Links
@@ -39,4 +23,3 @@
 * [Website](https://hexxlabs.xyz)
 * [Discord Server](https://smartt.link/hexx)
 * [Documentation](https://docs.hexxlabs.xyz)
-
