@@ -8,17 +8,31 @@
 
 🕑Launched 04/30/2021🕑
 
-🧪 created by Hexx Laboratories 🧪
 
-📩 Bot Features 📩
 
-💎Hexx Premium💎
+ \|   🧪 created by Hexx Laboratories 🧪
 
-🔊Music System🔊
 
-❌Antilink System❌
 
-🎟Ticket System🎟
+ \|   📩 Bot Features 📩
+
+
+
+ \|   💎Hexx Premium💎 
+
+
+
+ \|   🔊Music System🔊
+
+
+
+ \|   ❌Antilink System❌
+
+
+
+ \|   🎟Ticket System🎟
+
+
 
 ## 🔗 Links
 
