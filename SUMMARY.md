@@ -11,5 +11,5 @@
 ## Frequently \| Asked \| Questions
 
 * [Why is hexx premium so cheap](frequently-or-asked-or-questions/why-is-hexx-premium-so-cheap.md)
-* [Untitled](frequently-or-asked-or-questions/untitled.md)
+* [Why are some of the commands not working?](frequently-or-asked-or-questions/why-are-some-of-the-commands-not-working.md)
 
