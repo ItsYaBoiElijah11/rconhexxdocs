@@ -23,3 +23,11 @@
 * [Support!](https://discord.gg/Xng9Axppku)
 * [Invite!](https://discord.com/oauth2/authorize?client_id=836227737135349821&permissions=8&scope=bot)
 
+## Partners
+
+---
+
+* [Dino Hosting](https://dinohosting.tk)
+* [Dis Bot List](https://disbot.net)
+* [Smartt Link](https://smartt.link)
+
