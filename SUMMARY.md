@@ -13,3 +13,13 @@
 * [Why is hexx premium so cheap](frequently-or-asked-or-questions/why-is-hexx-premium-so-cheap.md)
 * [Why are some of the commands not working?](frequently-or-asked-or-questions/why-are-some-of-the-commands-not-working.md)
 
+## Rcon Hexx
+
+---
+
+* [Home](https://hexxlabs.xyz/)
+* [Docs](https://docs.hexxlabs.xyz/)
+* [Commands!](https://hexxlabs.xyz/commands.html)
+* [Support!](https://discord.gg/Xng9Axppku)
+* [Invite!](https://discord.com/oauth2/authorize?client_id=836227737135349821&permissions=8&scope=bot)
+
