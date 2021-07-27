@@ -21,5 +21,6 @@
 ## 🔗 Links
 
 * [Website](https://hexxlabs.xyz)
+* [Hosting](https://dinohosting.tk)
 * [Discord Server](https://smartt.link/hexx)
 * [Documentation](https://docs.hexxlabs.xyz)
