@@ -11,4 +11,5 @@
 ## Frequently \| Asked \| Questions
 
 * [Why is hexx premium so cheap](frequently-or-asked-or-questions/why-is-hexx-premium-so-cheap.md)
+* [Untitled](frequently-or-asked-or-questions/untitled.md)
 
