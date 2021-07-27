@@ -35,7 +35,7 @@ How to reset the prefix to default:
 ```
 
 {% hint style="warning" %}
-Note: if the prefix dont reset and its still on the prefix you set before do &lt;prefix&gt;setprefix hexx could just be a command bug.
+Note: if the prefix don't reset and its still on the prefix you set before do &lt;prefix&gt;setprefix hexx could just be a command bug.
 {% endhint %}
 
 

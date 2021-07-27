@@ -6,4 +6,5 @@
 
 * [How to set a prefix](getting-started/how-to-set-a-prefix.md)
 * [How to use the ticket system](getting-started/how-to-use-the-ticket-system.md)
+* [How to use the ranking system](getting-started/how-to-use-the-ranking-system.md)
 

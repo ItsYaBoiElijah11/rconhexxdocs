@@ -40,7 +40,7 @@ How to close a ticket:
 <prefix>close
 ```
 
-And thats it for the ticket system!
+And that's it for the ticket system!
 
 
 
