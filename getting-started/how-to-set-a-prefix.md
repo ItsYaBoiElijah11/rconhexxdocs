@@ -42,6 +42,7 @@ Note: if the prefix dont reset and its still on the prefix you set before do &lt
 
 The list of things to get started
 
-1. How to use custom prefix's \| Completed
-2. How to use the ticket system \| Todo
+1. How to use custom prefix's \| **Completed**
+2. How to use the ticket system \| **Incomplete**
+3. How to use ranking system \| **Incomplete**
 
